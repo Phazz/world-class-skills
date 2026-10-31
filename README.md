@@ -2,7 +2,7 @@
 
 **Give your AI agent the playbooks of world-class negotiators, strategists, investors, and leaders.**
 
-Ten agent skills distilled from the people who set the standard in their field: an FBI hostage negotiator, the Harvard Negotiation Project, the CEO who built Intel, the investor behind Berkshire Hathaway, a Nobel-winning mathematician, an eight-time World Memory Champion, and more. Each framework is turned into a working method your agent applies to *your* situation: a reply draft, a strategy critique, a decision memo, a 1:1 plan.
+Eleven agent skills distilled from the people who set the standard in their field: an FBI hostage negotiator, the Harvard Negotiation Project, the CEO who built Intel, the investor behind Berkshire Hathaway, a Nobel-winning mathematician, an eight-time World Memory Champion, and more. Each framework is turned into a working method your agent applies to *your* situation: a reply draft, a strategy critique, a decision memo, a 1:1 plan.
 
 You don't call them by name. Ask your agent to review a strategy doc, prepare a salary negotiation, or decide which projects to kill. The right skill loads, picks the best-fit framework, and tells you which one it used.
 
@@ -23,6 +23,7 @@ npx skills add Phazz/world-class-skills -g -y
 | `wc-manage` | fix a team that isn't delivering, delegate, run 1:1s, lead as Staff+ | **Andy Grove**, CEO who built Intel · **Will Larson**, *An Elegant Puzzle* and *Staff Engineer* · **Lara Hogan**, engineering leadership coach |
 | `wc-communicate` | write the weekly update, deliver hard feedback, repair a relationship | **Dale Carnegie** · **Will Larson**'s 5-15 update practice |
 | `wc-grow` | design an offer, price it, find customers, fix funnel economics | **Alex Hormozi**, *$100M Offers*, *Leads*, and *Money Models* |
+| `wc-ui-design` | design a page, screen, logo, or icon that doesn't look AI-generated | **Anshu Chimala**'s world-class design techniques (Lenny's Newsletter) · **Sakana AI**'s String Seed of Thought research |
 | `wc-get-direction` | decide where your time goes, choose a role, handle a setback | **Peter Drucker**, the father of modern management · **Marcus Aurelius**, Roman emperor and Stoic |
 | `wc-invest` | review household investments, rebalance, write an investment policy | Diversification and allocation principles from regulators, with Buffett and Taleb as lenses |
 | `wc-learn` | learn memory palaces and the Dominic number system, step by step | **Dominic O'Brien**, eight-time World Memory Champion · **Joshua Foer**, USA Memory Champion |
@@ -38,6 +39,7 @@ The best practitioners in these fields share a handful of habits. Every skill en
 - **Listen before persuading.** Understand the other side's constraints and let their answers change the plan (Voss, Carnegie).
 - **Concentrate.** Choose the few things that matter and say explicitly what gets less attention (Drucker, Rumelt, Doerr).
 - **Facts, not stories.** Separate what happened from the judgment about it; label hypotheses and unknowns instead of inventing them (Marcus Aurelius, every skill).
+- **Break the default.** Seed creative work with randomness, aim high, and let an independent critic judge the result (Chimala, Sakana AI).
 - **Commitments have owners.** Every plan ends with who does what by when, and how you'll know it worked.
 
 ## Try it
@@ -74,7 +76,7 @@ The `personal` plugin (`wc-get-direction`, `wc-invest`, `wc-learn`) installs the
 
 ## How it works
 
-Each skill is a job, not an author. Its description tells the agent *when* it applies, in the words you'd actually use. Its body is a short router that picks the right framework for your situation. The frameworks live in `references/` and load only when needed, so ten skills cost only ten short descriptions of context until one is needed.
+Each skill is a job, not an author. Its description tells the agent *when* it applies, in the words you'd actually use. Its body is a short router that picks the right framework for your situation. The frameworks live in `references/` and load only when needed, so eleven skills cost only eleven short descriptions of context until one is needed.
 
 ```
 plugins/<plugin>/skills/wc-<job>/SKILL.md          # when to use + framework router

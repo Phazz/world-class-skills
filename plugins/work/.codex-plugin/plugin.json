@@ -1,6 +1,6 @@
 {
   "name": "work",
-  "description": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr",
+  "description": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr, design beyond the AI default",
   "author": {
     "name": "Pierre Lemperiere",
     "url": "https://github.com/Phazz"
@@ -19,7 +19,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Work",
-    "shortDescription": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr",
+    "shortDescription": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr, design beyond the AI default",
     "developerName": "Pierre Lemperiere",
     "category": "Productivity"
   }
