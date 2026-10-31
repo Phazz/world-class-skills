@@ -1,0 +1,23 @@
+{
+  "name": "personal",
+  "description": "Personal direction and reflection, household investment reviews, and memory training",
+  "author": {
+    "name": "Pierre Lemperiere",
+    "url": "https://github.com/Phazz"
+  },
+  "repository": "https://github.com/Phazz/world-class-skills",
+  "license": "MIT",
+  "keywords": [
+    "priorities",
+    "reflection",
+    "investing",
+    "memory"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Personal",
+    "shortDescription": "Personal direction and reflection, household investment reviews, and memory training",
+    "developerName": "Pierre Lemperiere",
+    "category": "Productivity"
+  }
+}
