@@ -1,6 +1,6 @@
 {
   "name": "personal",
-  "description": "Personal direction and reflection, household investment reviews, and memory training",
+  "description": "World-class playbooks for yourself: Drucker and Marcus Aurelius for direction, disciplined household investing, memory training from World Memory Champions",
   "author": {
     "name": "Pierre Lemperiere",
     "url": "https://github.com/Phazz"
@@ -16,7 +16,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Personal",
-    "shortDescription": "Personal direction and reflection, household investment reviews, and memory training",
+    "shortDescription": "World-class playbooks for yourself: Drucker and Marcus Aurelius for direction, disciplined household investing, memory training from World Memory Champions",
     "developerName": "Pierre Lemperiere",
     "category": "Productivity"
   }

@@ -1,8 +1,16 @@
 {
   "name": "personal",
-  "description": "Personal direction and reflection, household investment reviews, and memory training",
-  "author": { "name": "Pierre Lemperiere", "url": "https://github.com/Phazz" },
+  "description": "World-class playbooks for yourself: Drucker and Marcus Aurelius for direction, disciplined household investing, memory training from World Memory Champions",
+  "author": {
+    "name": "Pierre Lemperiere",
+    "url": "https://github.com/Phazz"
+  },
   "repository": "https://github.com/Phazz/world-class-skills",
   "license": "MIT",
-  "keywords": ["priorities", "reflection", "investing", "memory"]
+  "keywords": [
+    "priorities",
+    "reflection",
+    "investing",
+    "memory"
+  ]
 }

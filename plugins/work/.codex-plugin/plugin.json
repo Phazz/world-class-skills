@@ -1,6 +1,6 @@
 {
   "name": "work",
-  "description": "Thinking frameworks routed by the job at hand: negotiate, strategize, decide, plan, manage, communicate, grow",
+  "description": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr",
   "author": {
     "name": "Pierre Lemperiere",
     "url": "https://github.com/Phazz"
@@ -19,7 +19,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Work",
-    "shortDescription": "Thinking frameworks routed by the job at hand: negotiate, strategize, decide, plan, manage, communicate, grow",
+    "shortDescription": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr",
     "developerName": "Pierre Lemperiere",
     "category": "Productivity"
   }

@@ -1,6 +1,6 @@
 {
   "name": "world-class-skills",
-  "description": "Job-to-be-done thinking skills: negotiate, strategize, decide, plan, manage, communicate, grow, plus personal direction, investing and memory training",
+  "description": "Playbooks of world-class negotiators, strategists, investors and leaders for your AI agent: Voss, Rumelt, Buffett, Taleb, Grove, Drucker and more",
   "owner": {
     "name": "Pierre Lemperiere",
     "url": "https://github.com/Phazz"
@@ -9,12 +9,12 @@
     {
       "name": "work",
       "source": "./plugins/work",
-      "description": "Negotiate, strategize, decide, plan, manage, communicate, grow"
+      "description": "World-class playbooks for work: negotiate, strategize, decide, plan, manage, communicate, grow"
     },
     {
       "name": "personal",
       "source": "./plugins/personal",
-      "description": "Personal direction, household investing, memory training"
+      "description": "World-class playbooks for yourself: direction, investing, memory"
     }
   ]
 }

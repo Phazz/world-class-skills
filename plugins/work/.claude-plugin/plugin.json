@@ -1,8 +1,19 @@
 {
   "name": "work",
-  "description": "Thinking frameworks routed by the job at hand: negotiate, strategize, decide, plan, manage, communicate, grow",
-  "author": { "name": "Pierre Lemperiere", "url": "https://github.com/Phazz" },
+  "description": "World-class playbooks for work: negotiate like Voss, strategize like Rumelt, decide like Buffett and Taleb, manage like Grove, plan like Doerr",
+  "author": {
+    "name": "Pierre Lemperiere",
+    "url": "https://github.com/Phazz"
+  },
   "repository": "https://github.com/Phazz/world-class-skills",
   "license": "MIT",
-  "keywords": ["strategy", "negotiation", "decision-making", "management", "planning", "okrs", "writing"]
+  "keywords": [
+    "strategy",
+    "negotiation",
+    "decision-making",
+    "management",
+    "planning",
+    "okrs",
+    "writing"
+  ]
 }

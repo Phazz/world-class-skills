@@ -1,17 +1,31 @@
 {
   "name": "world-class-skills",
-  "interface": { "displayName": "World-class skills" },
+  "interface": {
+    "displayName": "World-Class Skills"
+  },
   "plugins": [
     {
       "name": "work",
-      "source": { "source": "local", "path": "./plugins/work" },
-      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "source": {
+        "source": "local",
+        "path": "./plugins/work"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
       "category": "Productivity"
     },
     {
       "name": "personal",
-      "source": { "source": "local", "path": "./plugins/personal" },
-      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "source": {
+        "source": "local",
+        "path": "./plugins/personal"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
       "category": "Productivity"
     }
   ]
