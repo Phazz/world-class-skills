@@ -2,7 +2,7 @@
   "name": "work",
   "description": "Thinking frameworks routed by the job at hand: negotiate, strategize, decide, plan, manage, communicate, grow",
   "author": { "name": "Pierre Lemperiere", "url": "https://github.com/Phazz" },
-  "repository": "https://github.com/Phazz/skills",
+  "repository": "https://github.com/Phazz/world-class-skills",
   "license": "MIT",
   "keywords": ["strategy", "negotiation", "decision-making", "management", "planning", "okrs", "writing"]
 }

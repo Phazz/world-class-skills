@@ -1,16 +1,16 @@
-# Phazz skills
+# World-class skills
 
 Thinking frameworks for Claude Code, organized by the job you are doing rather than by author. Each skill is a job; inside it, the classic frameworks (Rumelt, Voss, Grove, Buffett, Taleb, Larson, and others) are lenses that the skill picks and loads only when the situation calls for them. You rarely need to name a skill: it triggers when you are researching, drafting, or reviewing a document that does that job.
 
 ## Install
 
 ```bash
-claude plugin marketplace add Phazz/skills
-claude plugin install work@phazz-skills
-claude plugin install personal@phazz-skills   # optional, personal machines
+claude plugin marketplace add Phazz/world-class-skills
+claude plugin install work@world-class-skills
+claude plugin install personal@world-class-skills   # optional, personal machines
 ```
 
-Then turn on background updates once per machine: `/plugin` → Marketplaces → `phazz-skills` → Enable auto-update. Without it, run `claude plugin marketplace update phazz-skills`.
+Then turn on background updates once per machine: `/plugin` → Marketplaces → `world-class-skills` → Enable auto-update. Without it, run `claude plugin marketplace update world-class-skills`.
 
 The repository is public, so no credentials are needed. On a machine without a GitHub SSH key, set `CLAUDE_CODE_PLUGIN_PREFER_HTTPS=1` so in-session installs and updates clone over HTTPS.
 
@@ -58,7 +58,7 @@ plugins/<plugin>/evals/<case>/                  # trigger tests
 The SKILL.md files follow the open Agent Skills format. For Codex or other agents that read `~/.agents/skills`, clone the repo and symlink the job folders:
 
 ```bash
-git clone https://github.com/Phazz/skills ~/src/phazz-skills && ln -s ~/src/phazz-skills/plugins/*/skills/* ~/.agents/skills/
+git clone https://github.com/Phazz/world-class-skills ~/src/world-class-skills && ln -s ~/src/world-class-skills/plugins/*/skills/* ~/.agents/skills/
 ```
 
 Skill references between plugins use the `plugin:skill` names, which only resolve in Claude Code.
