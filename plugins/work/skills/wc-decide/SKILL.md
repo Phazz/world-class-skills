@@ -1,6 +1,6 @@
 ---
-name: decide
-description: Use when researching or judging a consequential bet under uncertainty - evaluating a company, stock, acquisition, or business model, a large long-term commitment versus alternatives, "what could go wrong", pre-mortems, lock-in, leverage, irreversible downside, or outcomes that depend on how competitors, partners, or other teams respond. Returns a decision memo. Not for household portfolio allocation (use invest) or choosing among many projects (use plan).
+name: wc-decide
+description: Use when researching or judging a consequential bet under uncertainty - evaluating a company, stock, acquisition, or business model, a large long-term commitment versus alternatives, "what could go wrong", pre-mortems, lock-in, leverage, irreversible downside, or outcomes that depend on how competitors, partners, or other teams respond. Returns a decision memo. Not for household portfolio allocation (use wc-invest) or choosing among many projects (use wc-plan).
 ---
 
 # Decide: judge a commitment by its economics, exposure, and the responses it provokes

@@ -1,6 +1,6 @@
 ---
-name: learn
-description: Interactive memory-training course - memory palaces and the Dominic number system, with short lessons, retrieval practice, and tracked progress in a learning workspace. Start it manually with /personal:learn.
+name: wc-learn
+description: Interactive memory-training course - memory palaces and the Dominic number system, with short lessons, retrieval practice, and tracked progress in a learning workspace. Start it manually with /wc-learn.
 disable-model-invocation: true
 ---
 

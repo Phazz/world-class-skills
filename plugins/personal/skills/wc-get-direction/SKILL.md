@@ -1,6 +1,6 @@
 ---
-name: get-direction
-description: Use when the user is deciding where their own time and attention should go or processing a setback - a personal quarterly plan, too many commitments, what to stop or delegate, choosing between roles or career options, or reflecting on criticism, conflict, or pressure before deciding how to respond. Not for a team's priorities (use work:plan) or drafting the message itself (use work:communicate).
+name: wc-get-direction
+description: Use when the user is deciding where their own time and attention should go or processing a setback - a personal quarterly plan, too many commitments, what to stop or delegate, choosing between roles or career options, or reflecting on criticism, conflict, or pressure before deciding how to respond. Not for a team's priorities (use wc-plan) or drafting the message itself (use wc-communicate).
 ---
 
 # Get direction: choose your contribution and govern your response

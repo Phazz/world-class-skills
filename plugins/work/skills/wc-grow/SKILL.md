@@ -1,6 +1,6 @@
 ---
-name: grow
-description: Use when working on how a product, service, or business earns money or wins customers - designing or repricing an offer, guarantees, bundles, upsells, lead magnets, outreach or ad campaigns, funnel conversion, CAC and LTV, or cash-flow from offer sequences. Finds the growth constraint and proposes a bounded test. Not for contract or price negotiation with a specific counterpart (use negotiate) or overall company strategy (use strategize).
+name: wc-grow
+description: Use when working on how a product, service, or business earns money or wins customers - designing or repricing an offer, guarantees, bundles, upsells, lead magnets, outreach or ad campaigns, funnel conversion, CAC and LTV, or cash-flow from offer sequences. Finds the growth constraint and proposes a bounded test. Not for contract or price negotiation with a specific counterpart (use wc-negotiate) or overall company strategy (use wc-strategize).
 ---
 
 # Grow: improve the constraint on profitable growth

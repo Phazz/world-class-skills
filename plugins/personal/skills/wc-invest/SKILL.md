@@ -1,6 +1,6 @@
 ---
-name: invest
-description: Use when reviewing personal or household investments - asset allocation, drift and rebalancing, concentration or currency exposure, fees, performance versus benchmark, stress scenarios, or drafting an investment policy statement. Reconciles holdings and proposes changes; never trades. Not for analysing a single company or stock (use work:decide) or allocating work across projects (use work:plan).
+name: wc-invest
+description: Use when reviewing personal or household investments - asset allocation, drift and rebalancing, concentration or currency exposure, fees, performance versus benchmark, stress scenarios, or drafting an investment policy statement. Reconciles holdings and proposes changes; never trades. Not for analysing a single company or stock (use wc-decide) or allocating work across projects (use wc-plan).
 ---
 
 # Invest: manage the household portfolio against its mandate
@@ -21,15 +21,15 @@ If these inputs are incomplete, provide a conditional diagnostic and a focused d
 
 ## Select companion skills
 
-Use the table only when its question arises; invoke that skill and read the named lens before applying it. If the `work` plugin is not installed, report the unavailable lens and continue the financial analysis supported by the available evidence. Author frameworks supplement financial analysis rather than determining allocations by authority.
+Use the table only when its question arises; invoke that skill and read the named lens before applying it. If that skill is not installed, report the unavailable lens and continue the financial analysis supported by the available evidence. Author frameworks supplement financial analysis rather than determining allocations by authority.
 
 | Decision | Companion |
 | --- | --- |
-| Security quality, valuation, opportunity cost, and margin of safety | `work:decide`, owner-economics lens |
-| Fragility, leverage, nonlinear losses, and survival under stress | `work:decide`, fragility lens |
-| A coherent policy with explicit tradeoffs | `work:strategize`, strategy-kernel lens |
-| Goals, priorities, and review discipline | `get-direction`, contribution lens |
-| A concise factual review and decisions needed | `work:communicate`, weekly-update lens |
+| Security quality, valuation, opportunity cost, and margin of safety | `wc-decide`, owner-economics lens |
+| Fragility, leverage, nonlinear losses, and survival under stress | `wc-decide`, fragility lens |
+| A coherent policy with explicit tradeoffs | `wc-strategize`, strategy-kernel lens |
+| Goals, priorities, and review discipline | `wc-get-direction`, contribution lens |
+| A concise factual review and decisions needed | `wc-communicate`, weekly-update lens |
 
 Resolve conflicts through the mandate: conviction in a business does not override concentration limits; optionality does not justify unlimited option premiums. Neither a concentrated portfolio nor a fixed barbell allocation is a universal prescription.
 

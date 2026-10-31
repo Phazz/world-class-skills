@@ -1,6 +1,6 @@
 ---
-name: plan
-description: Use when turning direction into commitments and measures - deciding what to start, continue, pause, or stop across competing projects, annual or quarterly planning, budgets and headcount, splitting capacity between roadmap and tech debt, or drafting, reviewing, and grading OKRs and key results. Not for writing the strategy itself (use strategize), one team's delivery problems (use manage), or personal investments (use invest).
+name: wc-plan
+description: Use when turning direction into commitments and measures - deciding what to start, continue, pause, or stop across competing projects, annual or quarterly planning, budgets and headcount, splitting capacity between roadmap and tech debt, or drafting, reviewing, and grading OKRs and key results. Not for writing the strategy itself (use wc-strategize), one team's delivery problems (use wc-manage), or personal investments (use wc-invest).
 ---
 
 # Plan: allocate scarce capacity and define how success will be recognized

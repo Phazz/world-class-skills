@@ -1,6 +1,6 @@
 ---
-name: manage
-description: Use when leading people or a team - a team that is not delivering (growing backlog, interruptions, missed dates, overload), "hire or reorg?", delegation, useless meetings, preparing or following up a 1:1, mentoring vs coaching vs sponsoring, or a Staff/Principal engineer choosing high-leverage work and influencing without authority. Not for budgets and headcount planning (use plan) or a one-off hard message (use communicate).
+name: wc-manage
+description: Use when leading people or a team - a team that is not delivering (growing backlog, interruptions, missed dates, overload), "hire or reorg?", delegation, useless meetings, preparing or following up a 1:1, mentoring vs coaching vs sponsoring, or a Staff/Principal engineer choosing high-leverage work and influencing without authority. Not for budgets and headcount planning (use wc-plan) or a one-off hard message (use wc-communicate).
 ---
 
 # Manage: increase what the team and its neighbours deliver

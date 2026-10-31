@@ -1,7 +1,7 @@
 ---
 type: tool_used
 tool: Skill
-input_match: '"skill"\s*:\s*"(work|personal):'
+input_match: '"skill"\s*:\s*"(?:[\w-]+:)?wc-'
 min: 0
 max: 0
 arm: both

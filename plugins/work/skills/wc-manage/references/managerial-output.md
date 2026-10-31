@@ -19,7 +19,7 @@ Apply a selective synthesis of *High Output Management* by Andrew S. Grove. Eval
 5. **Build useful feedback.** Give specific observations and consequences, clarify the expected improvement, and check understanding. Use one-on-ones to surface problems and exchange context, with room for the report's agenda. Match cadence to need rather than prescribing an arbitrary universal schedule.
 6. **Review and adjust.** Define an early signal, final outcome, owner, and review date. Inspect whether the intervention improved total output without degrading quality or sustainable capacity. Stop activities whose coordination cost exceeds their benefit.
 
-When the intervention needs objectives or key results, read [objectives](objectives.md). For a full OKR drafting or review task, use the [OKR lens](../../plan/references/okrs.md) of the `plan` skill.
+When the intervention needs objectives or key results, read [objectives](objectives.md). For a full OKR drafting or review task, use the [OKR lens](../../wc-plan/references/okrs.md) of the `wc-plan` skill.
 
 ## Deliverable
 

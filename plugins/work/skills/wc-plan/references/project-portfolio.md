@@ -15,18 +15,18 @@ Mark missing data. Do not infer capacity from headcount alone or convert uncerta
 
 ## Select companion skills
 
-Read the relevant lens file before applying it. Use only the lenses needed for the decision; one agent can apply them sequentially. Paths are relative to this file. A lens from another plugin may not be installed; if a file or skill is unavailable, name the limitation and do not pretend it was loaded.
+Read the relevant lens file before applying it. Use only the lenses needed for the decision; one agent can apply them sequentially. Paths are relative to this file. A lens from another skill may not be installed; if a file or skill is unavailable, name the limitation and do not pretend it was loaded.
 
 | Question | Companion lens |
 | --- | --- |
-| Which challenge deserves concentrated effort? | [Strategy kernel](../../strategize/references/strategy-kernel.md) |
-| Who benefits, and what contribution matters? | The `personal:get-direction` skill (contribution lens), if installed |
-| Is the remaining commitment worth its opportunity cost? | [Owner economics](../../decide/references/owner-economics.md), applying its nonfinancial analogy |
-| Can shared shocks or irreversible losses undermine the portfolio? | [Fragility](../../decide/references/fragility.md) |
-| Does delivery capacity support these commitments? | [Managerial output](../../manage/references/managerial-output.md); [team states](../../manage/references/team-states.md) for team-state problems |
-| Can the proposed scope be reduced? | [Simplification](../../strategize/references/simplification.md) |
+| Which challenge deserves concentrated effort? | [Strategy kernel](../../wc-strategize/references/strategy-kernel.md) |
+| Who benefits, and what contribution matters? | The `wc-get-direction` skill (contribution lens), if installed |
+| Is the remaining commitment worth its opportunity cost? | [Owner economics](../../wc-decide/references/owner-economics.md), applying its nonfinancial analogy |
+| Can shared shocks or irreversible losses undermine the portfolio? | [Fragility](../../wc-decide/references/fragility.md) |
+| Does delivery capacity support these commitments? | [Managerial output](../../wc-manage/references/managerial-output.md); [team states](../../wc-manage/references/team-states.md) for team-state problems |
+| Can the proposed scope be reduced? | [Simplification](../../wc-strategize/references/simplification.md) |
 | How will approved priorities become measurable? | [OKRs](okrs.md) |
-| How should the review be communicated? | [Weekly update](../../communicate/references/weekly-update.md) |
+| How should the review be communicated? | [Weekly update](../../wc-communicate/references/weekly-update.md) |
 
 For a full review, assess strategy, allocation, risk, and capacity; load a companion only when its question needs deeper analysis. For a brief check, reuse a still-valid strategy and inspect changes.
 

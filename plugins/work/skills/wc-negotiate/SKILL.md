@@ -1,6 +1,6 @@
 ---
-name: negotiate
-description: Use when preparing, evaluating, or replying in a negotiation where terms are at stake and the other side has alternatives - salary or job offers, vendor and customer contracts, pricing, scope, deadlines, partnerships, or a stalled multi-party deal. Produces a prep brief, offer comparison, or reply draft. Not for feedback or relationship talks with no terms (use communicate) or modelling competitor reactions (use decide).
+name: wc-negotiate
+description: Use when preparing, evaluating, or replying in a negotiation where terms are at stake and the other side has alternatives - salary or job offers, vendor and customer contracts, pricing, scope, deadlines, partnerships, or a stalled multi-party deal. Produces a prep brief, offer comparison, or reply draft. Not for feedback or relationship talks with no terms (use wc-communicate) or modelling competitor reactions (use wc-decide).
 ---
 
 # Negotiate: reach an agreement worth more than walking away

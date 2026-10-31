@@ -1,6 +1,6 @@
 ---
-name: strategize
-description: Use when writing, reviewing, or pressure-testing a strategy, vision, or direction-setting document - company, product, team, or engineering strategy, technical standards and default policies - or when a plan is goals and slogans without a diagnosis or real tradeoffs. Also for cutting a bloated process, product, or architecture down to essentials. Not for OKRs or allocating across projects (use plan), or evaluating one bet (use decide).
+name: wc-strategize
+description: Use when writing, reviewing, or pressure-testing a strategy, vision, or direction-setting document - company, product, team, or engineering strategy, technical standards and default policies - or when a plan is goals and slogans without a diagnosis or real tradeoffs. Also for cutting a bloated process, product, or architecture down to essentials. Not for OKRs or allocating across projects (use wc-plan), or evaluating one bet (use wc-decide).
 ---
 
 # Strategize: diagnose the challenge and choose what to concentrate on
