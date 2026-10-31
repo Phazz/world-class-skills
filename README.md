@@ -4,6 +4,10 @@
 
 **Give your AI agent the playbooks of world-class negotiators, strategists, investors, and leaders.**
 
+<p align="center"><img src="assets/people.png" width="100%" alt="Line-art portraits of Chris Voss, David A. Lax, James K. Sebenius, Richard P. Rumelt, Elon Musk, Warren E. Buffett, Nassim Nicholas Taleb, John Forbes Nash Jr., John Doerr, Andrew S. Grove, Lara Hogan, Dale Carnegie, Peter F. Drucker, Marcus Aurelius, Dominic O'Brien and Joshua Foer"></p>
+
+<p align="center"><sub>Original line-art illustrations drawn from openly licensed photographs; credits and licences in <a href="assets/portraits/CREDITS.md">assets/portraits/CREDITS.md</a>. Portraits of other authors cited below will be added as image rights are cleared.</sub></p>
+
 Eleven playbooks, packaged as agent skills, distilled from the people who set the standard in their field: an FBI hostage negotiator, the Harvard Negotiation Project, the CEO who built Intel, the investor behind Berkshire Hathaway, a Nobel-winning mathematician, an eight-time World Memory Champion, and more. Each framework is turned into a working method your agent applies to *your* situation: a reply draft, a strategy critique, a decision memo, a 1:1 plan.
 
 You don't call a playbook by name. Ask your agent to review a strategy doc, prepare a salary negotiation, or decide which projects to kill. The right playbook loads, picks the best-fit framework, and tells you which one it used.
@@ -29,12 +33,6 @@ npx skills add Phazz/world-class-skills -g -y
 | `direction-playbook` | decide where your time goes, choose a role, handle a setback | **Peter Drucker**, the father of modern management · **Marcus Aurelius**, Roman emperor and Stoic |
 | `investing-playbook` | review household investments, rebalance, write an investment policy | Diversification and allocation principles from regulators, with Buffett and Taleb as lenses |
 | `memory-playbook` | learn memory palaces and the Dominic number system, step by step | **Dominic O'Brien**, eight-time World Memory Champion · **Joshua Foer**, USA Memory Champion |
-
-## The people behind the playbooks
-
-<p align="center"><img src="assets/people.png" width="100%" alt="Line-art portraits of Chris Voss, David A. Lax, James K. Sebenius, Richard P. Rumelt, Elon Musk, Warren E. Buffett, Nassim Nicholas Taleb, John Forbes Nash Jr., John Doerr, Andrew S. Grove, Lara Hogan, Dale Carnegie, Peter F. Drucker, Marcus Aurelius, Dominic O'Brien and Joshua Foer"></p>
-
-<sub>Original line-art illustrations drawn from openly licensed photographs; credits and licences in [assets/portraits/CREDITS.md](assets/portraits/CREDITS.md). Portraits of other authors cited above will be added as image rights are cleared.</sub>
 
 ## The habits that make them world-class, built in
 
