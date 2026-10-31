@@ -1,0 +1,20 @@
+{
+  "name": "phazz-skills",
+  "description": "Job-to-be-done thinking skills: negotiate, strategize, decide, plan, manage, communicate, grow, plus personal direction, investing and memory training",
+  "owner": {
+    "name": "Pierre Lemperiere",
+    "url": "https://github.com/Phazz"
+  },
+  "plugins": [
+    {
+      "name": "work",
+      "source": "./plugins/work",
+      "description": "Negotiate, strategize, decide, plan, manage, communicate, grow"
+    },
+    {
+      "name": "personal",
+      "source": "./plugins/personal",
+      "description": "Personal direction, household investing, memory training"
+    }
+  ]
+}
